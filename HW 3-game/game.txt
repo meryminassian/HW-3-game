@@ -1,0 +1,12 @@
+player: swordsman, remaining life count: 35.8
+player: archer, remaining life count: 41.5
+player: swordsman, remaining life count: 31.599999999999998
+player: archer, remaining life count: 33.0
+player: swordsman, remaining life count: 27.4
+player: archer, remaining life count: 24.5
+player:  swordsman, remaining life count: 23.2
+player:  archer, remaining life count: 16.0
+player:  swordsman, remaining life count: 19.0
+player:  archer, remaining life count: 7.5
+player:  swordsman, remaining life count: 14.8
+player:  archer, remaining life count: 0.0
